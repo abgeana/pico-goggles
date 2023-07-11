@@ -1,5 +1,5 @@
 add_executable(goggles
-    main.cpp
+    main.c
 )
 
 target_link_libraries(goggles
